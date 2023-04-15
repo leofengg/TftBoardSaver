@@ -1,0 +1,35 @@
+{
+    "name": "MY COLLECTION",
+    "collection": [{
+        "name": "TEST1",
+        "board": [
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    }]
+}

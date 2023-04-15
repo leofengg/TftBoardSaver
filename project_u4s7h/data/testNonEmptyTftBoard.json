@@ -1,0 +1,41 @@
+{
+    "name": "MY COLLECTION",
+    "collection": [{
+        "name": "TEST BOARD",
+        "board": [
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                {
+                    "name": "kaisa",
+                    "trait": "lagoon"
+                },
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "name": "graves",
+                    "trait": "cannoneer"
+                }
+            ]
+        ]
+    }]
+}
